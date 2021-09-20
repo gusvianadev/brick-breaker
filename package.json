@@ -1,0 +1,13 @@
+{
+	"name": "brick-breaker",
+	"version": "1.0.0",
+	"author": "gusvianadev <gusvianadev@gmail.com>",
+	"main": "index.js",
+	"scripts": {
+		"start": "parcel index.html -p 1024"
+	},
+	"license": "MIT",
+	"devDependencies": {
+		"parcel-bundler": "^1.12.5"
+	}
+}
